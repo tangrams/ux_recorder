@@ -1,0 +1,21 @@
+.ux_recorder-container {
+    width: 26px;
+    height: 26px;
+    background-color: white;
+}
+
+.ux_recorder-icon-rec {
+    position: absolute;
+    top: -6px;
+    left: 5px;
+    color: #fd0707;
+    font-size: 24px;
+}
+
+.ux_recorder-icon-stop {
+    position: absolute;
+    top: 2px;
+    left: 6px;
+    color: black;
+    font-size: 15px;
+}
